@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="602cb0d6-b29e-4be7-b667-ada2e999494d" name="Changes" comment="" />
+    <list default="true" id="602cb0d6-b29e-4be7-b667-ada2e999494d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homeworks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -30,7 +42,9 @@
     "Python.HW1.executor": "Run",
     "Python.lesson-1.executor": "Run",
     "Python.lesson1.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
@@ -125,16 +139,5 @@
       <updated>1743167876463</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
