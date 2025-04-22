@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="602cb0d6-b29e-4be7-b667-ada2e999494d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/Client.db" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/Client.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/HW7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/HW7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/HW4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW1.executor": "Run",
+    "Python.HW4.executor": "Run",
     "Python.HW7.executor": "Run",
     "Python.lesson-1.executor": "Run",
     "Python.lesson1.executor": "Run",
@@ -46,7 +45,12 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homeworks" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="HW1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP-53-2" />
       <option name="ENV_FILES" value="" />
