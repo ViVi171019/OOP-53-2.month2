@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="602cb0d6-b29e-4be7-b667-ada2e999494d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lessons/HW7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW1.executor": "Run",
+    "Python.HW7.executor": "Run",
     "Python.lesson-1.executor": "Run",
     "Python.lesson1.executor": "Run",
     "Python.lesson_7.executor": "Run",
@@ -43,7 +45,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.lesson1">
     <configuration name="HW1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP-53-2" />
       <option name="ENV_FILES" value="" />
