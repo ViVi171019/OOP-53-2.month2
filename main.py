@@ -49,7 +49,7 @@ class Hero(ABC):
     def unique_scream(self):
         pass
 
-# hero = Hero('Andersen', 3000, 40)
+hero = Hero('Andersen', 3000, 40)
 # hero.attack()
 # hero.defence()
 # hero.rest()
